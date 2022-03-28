@@ -1,7 +1,7 @@
 // Run when the webpage is loaded
 window.addEventListener('load', () => {
   Swal.fire({
-    title: 'Tambahkan Lagu agar nyaman ? ',
+    title: 'Tambahkan Lagu? ',
     // text: "You won't be able to revert this!",
     icon: 'warning',
     showCancelButton: true,
